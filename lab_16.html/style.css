@@ -1,0 +1,53 @@
+*{
+
+  padding: 5px;
+}
+.header-nav{
+  display: flex;
+}
+a{
+  font-size: 30px;
+}
+.search::placeholder{
+  font-size: 30px;
+}
+#bell{
+  height: 40px;
+  width: 40px;
+}
+.right-nav{
+  background: rgb(173, 134, 134);
+  padding:  5px;
+  margin: 0 , 5px;
+  float: right;
+}
+.second-nav{
+  display: grid;
+  width: 110px;
+  background: rgb(173, 134, 134);
+}
+.main-class{
+  display: flex;
+}
+.img-class{
+  padding: 10px;
+  padding-left: 50px;
+  justify-content: center;
+  align-items: center;
+}
+.grid-class{
+  display: grid;
+}
+.sec-img-class{
+  padding-left: 50px;
+}
+footer{
+  background: #1f2339;
+  justify-content: center;
+  align-items: center;
+}
+.copyright{
+  display: flex;
+  justify-content: center;
+  
+}
